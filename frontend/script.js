@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:5000/users";
+const API_URL = "/users";
 
 //  Get all users from backend
 async function fetchUsers() {
